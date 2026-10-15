@@ -1,4 +1,4 @@
-# 🛒 Blinkit Sales Analysis Dashboard | Power BI
+# 🛒 Blinkit Dashboard | Power BI
 
 dashboard -> <a href="https://github.com/ShubhamDAI/Dashboard-practice/blob/main/Blinkit%20Dashboard%20(practice).pbit"> View Dashboard </a>
 
